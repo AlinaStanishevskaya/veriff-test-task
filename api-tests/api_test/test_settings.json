@@ -1,0 +1,14 @@
+{
+  "BaseURL": "https://demo.saas-3.veriff.me/",
+  "GetSessionUrlPostfix": "/api/v2/sessions",
+  "TokenType": "Bearer ",
+  "CreateSessionFullModel": {
+    "document_country": "AL",
+    "document_type": "DRIVERS_LICENSE",
+    "lang": "ca",
+    "full_name": "Janina Alta",
+    "additionalData": {
+      "isTest": "false"
+    }
+  }
+}
